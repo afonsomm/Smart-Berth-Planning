@@ -1,0 +1,19 @@
+name: tese
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - geopandas
+  - geodatasets
+  - folium
+  - jupyter
+  - matplotlib
+  - scienceplots
+  - movingpandas
+  - numpy
+  - pandas
+  - python
+  - pytorch
+  - scipy
+  - seaborn
+  - scikit-learn
